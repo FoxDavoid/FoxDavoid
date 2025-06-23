@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=It's%20Me,%20Fox%20🌻&width=1000&height=80)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=It's%20Me,%20Fox%20🌻&width=1000&height=100)](https://github.com/Akshay090/svg-banners)
 
 ###
 
